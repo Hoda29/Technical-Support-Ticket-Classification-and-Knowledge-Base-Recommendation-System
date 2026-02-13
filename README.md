@@ -54,6 +54,19 @@ This production-ready system provides intelligent technical support ticket class
 │              └────────────────────┘                         │
 └─────────────────────────────────────────────────────────────┘
 ```
+## Images
+
+### Architecture Diagram
+<img width="4170" height="2970" alt="architecture_diagram" src="https://github.com/user-attachments/assets/88c5229c-0d3a-4428-b0ef-37e36759738a" />
+
+### Model Comparison
+<img width="4164" height="1797" alt="model_comparison" src="https://github.com/user-attachments/assets/c886e77f-6014-4d4d-8eab-7fd2ed40378b" />
+
+### Performance Dashboard
+<img width="4100" height="2929" alt="performance_dashboard" src="https://github.com/user-attachments/assets/567780e5-37da-4975-af4d-963d89cae70e" />
+
+### Workflow Diagram
+<img width="3570" height="2994" alt="workflow_diagram" src="https://github.com/user-attachments/assets/a2581ab7-2c2f-45dd-87f8-ada3eec34d3b" />
 
 ## Installation
 
